@@ -1,0 +1,18 @@
+{
+  "name": "com.nanfeng979.sprite-exporter",
+  "version": "1.0.0",
+  "displayName": "Sprite 子图导出工具",
+  "description": "Unity Editor 工具，用于从已切割的 Sprite Texture 中选择并批量导出子图为 PNG 文件。",
+  "unity": "2021.3",
+  "keywords": [
+    "sprite",
+    "export",
+    "editor",
+    "texture",
+    "tools"
+  ],
+  "author": {
+    "name": "Y9g",
+    "url": "https://github.com/nanfeng979"
+  }
+}
